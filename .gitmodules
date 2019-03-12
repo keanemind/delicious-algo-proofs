@@ -1,0 +1,3 @@
+[submodule "themes/hugo-proofs"]
+	path = themes/hugo-proofs
+	url = https://github.com/keanemind/hugo-proofs.git

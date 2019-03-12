@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Delicious Algo Proofs"
+theme = "hugo-proofs"
