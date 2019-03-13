@@ -1,7 +1,12 @@
 ---
 title: "Hello"
 date: 2019-03-12T18:19:55-05:00
-draft: true
 ---
 
-Hello world!
+$$
+\text{Welcome to the world of }\LaTeX\\
+\begin{align}
+f(x) &= x^2\\
+f'(x) &= 2x
+\end{align}
+$$
